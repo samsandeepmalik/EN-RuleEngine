@@ -1,6 +1,6 @@
 # EN-RuleEngine
 
-    This rule engine validates streaming or batch data against multiple rules defined in rules configuration (/config/rules.yaml) file.
+    This rule engine validates streaming or batch data against multiple rules defined in rules configuration (./config/rules.yaml) file.
     Currently this rule engine validates signal data under 3 categories as below:
     - NumericActor : perform numeric data type operations as:
       - equal_to : validate signal value(Int) equal to rule value(Int).
